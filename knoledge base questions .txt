@@ -1,0 +1,71 @@
+🌾 Basic Disease Identification
+
+What are the symptoms of maize leaf blight?
+
+How can I identify early blight in tomatoes?
+
+What signs show that rice plants have blast disease?
+
+How do I recognize powdery mildew on crops?
+
+What are the common symptoms of cassava mosaic disease?
+
+🐛 Causes & Spread
+
+What causes bacterial wilt in tomatoes?
+
+How does late blight spread in potatoes?
+
+What environmental conditions favor rust disease in wheat?
+
+What pathogens cause anthracnose in fruits?
+
+How does downy mildew infect crops?
+
+💊 Treatment & Prevention
+
+How can farmers control maize streak virus?
+
+What treatments are recommended for leaf spot disease?
+
+How can crop rotation help prevent fungal diseases?
+
+What fungicides are effective against powdery mildew?
+
+What preventive measures reduce rice blast outbreaks?
+
+🌱 Crop-Specific Questions
+
+What diseases commonly affect tomato plants?
+
+How can I protect maize from fungal infections?
+
+What are major diseases of rice crops?
+
+Which plant diseases affect cassava most?
+
+What problems commonly occur in potato farming?
+
+📊 Advanced / Academic Style (great for grading)
+
+What are the primary symptoms and management strategies for wheat rust disease?
+
+Explain the causes and control methods of tomato bacterial wilt.
+
+Describe prevention techniques for fungal crop diseases.
+
+How do environmental factors contribute to plant disease outbreaks?
+
+Compare early blight and late blight in tomatoes.
+
+🧪 RAG Stress Test Questions (to test grounding)
+
+What is the recommended treatment for cassava mosaic disease?
+
+How can farmers reduce the spread of maize leaf blight?
+
+What are symptoms of powdery mildew across crops?
+
+What causes rice blast and how can it be managed?
+
+What are integrated pest management strategies for crop diseases?
